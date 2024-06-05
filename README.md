@@ -1,2 +1,2 @@
 # fetchTest
-The fecth test
+The fetch test
